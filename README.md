@@ -1,4 +1,4 @@
-![iDNA](http://www.idna.pl/1/cover.png)
+![iDNA](http://logo.idna.pl/1/cover.png)
 ## iDNA
 [testy DNA online](http://www.idna.pl/)
 
