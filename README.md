@@ -26,3 +26,7 @@ You can use the [editor on GitHub](https://github.com/i-dna/www/edit/main/README
 + logo
 + docs
 + www
+
+## Popularne laboratoria zdalne
++ https://www.genetico.pl/
++ https://www.testdna.pl/testy-na-koronawirusa/szybkie-testy-na-koronawirusa-antygenowe/
